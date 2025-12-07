@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Streamlit config
+.streamlit/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+
+# 🚫 Big model file (kept on Google Drive instead)
+carpredict.pkl
